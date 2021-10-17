@@ -3,5 +3,5 @@
 DRF 학습 
 
 - **Generic views** (ListCreateAPIView, RetrieveUpdateDestroyAPIView, CreateAPIView)
-- **permissions 커스텀**
-- **pagination**
+- **permissions (IsAdminUser, BasePermission) 커스텀**
+- **pagination (PageNumberPagination) 커스텀**
